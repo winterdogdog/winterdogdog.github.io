@@ -1,6 +1,6 @@
 ---
 layout: post
-title: how to use sublime
+title: Thailand travel strategy
 date: 2017-06-13
 tag: 博客
 ---
