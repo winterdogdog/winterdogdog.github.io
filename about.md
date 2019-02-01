@@ -4,7 +4,7 @@ title: 关于我【self-introduction】
 date: 2017-04-01
 ---
 <p>
-一个即将毕业的通信狗 <a href="{{ site.baseurl }}/shendongdong.pdf" target="_blank"> 「我的简历」 </a>
+<!-- 一个即将毕业的通信狗 <a href="{{ site.baseurl }}/shendongdong.pdf" target="_blank"> 「我的简历」 </a> -->
 <p>
 三尺微命，一介书生，求学于江宁之城，紫金山下，玄武湖畔，欲潜心研究通信之道，然现阶段通信发展遇瓶颈，
 <p>
